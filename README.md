@@ -4,7 +4,7 @@ Bu proje, İzmir ve Ankara metro ağlarında iki istasyon arasında en hızlı r
 
 ---
 
-## Kullanılan Teknolojiler ve Kütüphaneler
+## 📌 Kullanılan Teknolojiler ve Kütüphaneler
 
 Bu proje, Python programlama dili ile geliştirilmiştir ve aşağıdaki kütüphaneleri kullanır:
 
@@ -18,7 +18,7 @@ Ek bir bağımlılık yoktur; standart Python kütüphaneleri ile çalışır.
 
 ---
 
-## Algoritmaların Çalışma Mantığı
+## 🧠 Algoritmaların Çalışma Mantığı
 
 ### BFS (Breadth-First Search - Genişlik Öncelikli Arama)
 - **Nasıl Çalışır?**
@@ -62,7 +62,7 @@ Proje, İzmir ve Ankara metro ağları için test senaryoları içerir. Aşağı
   
 ---
      
-## Projeyi Geliştirme Fikirleri
+## 💡 Projeyi Geliştirme Fikirleri
 
 - **Daha İyi Heuristik Fonksiyon:** Şu anki basit `abs(idx farkı)` yerine, gerçek coğrafi mesafeler veya hat bazlı tahminler eklenebilir.
 - **Aktarma Maliyeti:** Hat değiştirme sürelerini (örneğin 2 dakika ek süre) modele dahil ederek daha gerçekçi rotalar sunulabilir.
