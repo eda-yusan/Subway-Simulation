@@ -40,7 +40,7 @@ Ek bir bağımlılık yoktur; standart Python kütüphaneleri ile çalışır.
 
 ---
 
-## Örnek Kullanım ve Test Sonuçları
+## ✅ Örnek Kullanım ve Test Sonuçları
 
 Proje, İzmir ve Ankara metro ağları için test senaryoları içerir. Aşağıda bazı örnekler ve çıktılar yer alıyor:
 
