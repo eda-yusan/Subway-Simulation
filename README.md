@@ -36,7 +36,7 @@ Ek bir bağımlılık yoktur; standart Python kütüphaneleri ile çalışır.
 
 ### Neden Bu Algoritmalar?
 - **BFS:** En az aktarma ile rota bulmak için idealdir çünkü grafın derinliğine değil genişliğine odaklanır ve ilk bulduğu çözüm minimum düğüm geçişini garanti eder.
-- **A*:** Süre optimizasyonu için uygundur; sezgisel tahminle gereksiz yolları eleyerek Dijkstra’dan daha hızlı çalışır ve optimal sonuç verir (heuristik uygun olduğu sürece).
+- **A star:** Süre optimizasyonu için uygundur; sezgisel tahminle gereksiz yolları eleyerek Dijkstra’dan daha hızlı çalışır ve optimal sonuç verir (heuristik uygun olduğu sürece).
 
 ---
 
